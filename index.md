@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# TITLE
+**Authors**: AAA
 
-You can use the [editor on GitHub](https://github.com/PerisD/EukCCC1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Journal**: XXX
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Year**: XXX
 
-### Markdown
+**Abstract**: [ABSTRACT]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Alignments
 
-```markdown
-Syntax highlighted code block
+- CCC1 sequence alignments [XXX\_XXX](https://github.com/PerisD/EukCCC1/.fasta "Raw_frequency_crosses"). The data is used in *Figure XXX*
 
-# Header 1
-## Header 2
-### Header 3
+## Phylogenetic trees
 
-- Bulleted
-- List
+- The maximum likelihood phylogenetic tree using XXX *Figures XXX*
+- The iTOL trees can be accessed from RRR
 
-1. Numbered
-2. List
+***
 
-**Bold** and _Italic_ and `Code` text
+***
 
-[Link](url) and ![Image](src)
-```
+### Contact
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[<img src="http://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo.png" width="40"/>](https://bit.ly/2V9hFt4)
 
-### Jekyll Themes
+[<img src="https://www.uv.es/perisnav/Index/twitter-logo.png" width="50"/>](https://bit.ly/2WJ2Rm8)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PerisD/EukCCC1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[<img src="https://www.uv.es/perisnav/images/Mitogression.png" width="60"/>](https://www.uv.es/perisnav/)
