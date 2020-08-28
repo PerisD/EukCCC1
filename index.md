@@ -1,7 +1,7 @@
 # TITLE
 **Authors**: AAA
 
-**Journal**: XXX
+**Journal**: XXXX
 
 **Year**: XXX
 
