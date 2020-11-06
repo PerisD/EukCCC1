@@ -1,7 +1,7 @@
-# Structure, regulation and function of the vacuolar Ccc1/VIT1 transporter family in iron detoxification
+# Structure and function of the vacuolar Ccc1/VIT1 family of iron transporters and its regulation in fungi
 **Authors**: Raquel Sorribes-Daudéna, David Peris, María Teresa Martínez-Pastor and Sergi Puig
 
-**Journal**: XXX
+**Journal**: Computational and Structural Biotechnology Journal
 
 **Year**: XXX
 
