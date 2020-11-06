@@ -1,11 +1,11 @@
-# TITLE
+# Structure and function of the vacuolar Ccc1/VIT1 family of iron transporters and its regulation in fungi
 **Authors**: Raquel Sorribes-Daudéna, David Peris, María Teresa Martínez-Pastora and Sergi Puig
 
-**Journal**: XXX
+**Journal**: Computational and Structural Biotechnology Journal
 
 **Year**: XXX
 
-**Abstract**: [ABSTRACT]
+**Abstract**: Iron is an essential micronutrient for most living beings since it participates as a redox active cofactor in many biological processes including cellular respiration, lipid biosynthesis, DNA replication and repair, and ribosome biogenesis and recycling. However, when present in excess, iron can participate in Fenton reactions and generate reactive oxygen species that damage cells at the level of proteins, lipids and nucleic acids. Organisms have developed different molecular strategies to protect themselves against the harmful effects of high concentrations of iron. In the case of fungi and plants, detoxification mainly occurs by importing cytosolic iron into the vacuole through the Ccc1/VIT1 iron transporter. New sequenced genomes and bioinformatic tools are facilitating the functional characterization, evolution and ecological relevance of metabolic pathways and homeostatic networks across the Tree of Life. A thorough sequence analysis shows that Ccc1/VIT1 homologs are widely distributed among organisms with the exception of animals. The recent elucidation of the crystal structure of a Ccc1/VIT1 plant ortholog has enabled the identification of both conserved and species-specific motifs required for its metal transport mechanism. Moreover, recent studies in the yeast Saccharomyces cerevisiae have also revealed that multiple transcription factors including Yap5 and Msn2/Msn4 contribute to the expression of CCC1 in high-iron conditions. Interestingly, Malaysian S. cerevisiae strains express a partially functional Ccc1 protein that renders them sensitive to iron. Different regulatory mechanisms have been described for non-Saccharomycetaceae Ccc1 homologs. The characterization of the structure, function and regulation of Ccc1/VIT1 proteins is of high interest in the development of biofortified crops and in the protection against microbial-derived diseases.
 
 ## Alignments
 
